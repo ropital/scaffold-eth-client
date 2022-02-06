@@ -20,7 +20,7 @@ export const Header: VFC<Props> = ({
       <HStack justifyContent="space-between" alignItems="center">
         <HStack alignItems="center">
           <Text fontSize="22px" fontWeight="bold" mr="30px">
-            RopiSwap
+            NFT Minter
           </Text>
 
           <HStack gap="20px">
